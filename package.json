@@ -1,0 +1,25 @@
+{
+  "name": "angular",
+  "version": "1.4.7",
+  "description": "HTML enhanced for web apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://devops.decimaltech.net/Roadzen/Roadzen_xClaim_Web.git"
+  },
+  "keywords": [
+    "angular",
+    "framework",
+    "browser",
+    "client-side"
+  ],
+  "author": "Angular Core Team <angular-core+npm@google.com>",
+  "license": "MIT",
+  "dependencies": {
+    "adityasharma-ng-button": "git+https://015fbe97f2c90616ed9742fb62dc0a69d66a1ab3:aditya007007@github.com/aditya007007/node-package-repo-test.git"
+  },
+  "homepage": "http://angularjs.org"
+}
